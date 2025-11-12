@@ -7,6 +7,3 @@
 > Les rails semblaient flotter dans le vide, entre deux dimensions.  
 > Il n'avait qu'une seule certitude : il devait aller jusqu'au terminus.
 
-#Experience Rebase2.0
-
->main
