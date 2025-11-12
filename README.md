@@ -1,4 +1,4 @@
-< development
+
 # 🌌 Le Voyage de l'Inattendu
 
 **Chapitre 1 : Le réveil**
